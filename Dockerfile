@@ -1,5 +1,5 @@
 # Base image https://hub.docker.com/u/rocker/
-FROM rocker/shiny:4.3.2@sha256:cd71333a7d1887b78db22790bfd782ea7142554d3ac93c7120b6bb0cd13ee675
+FROM rocker/shiny:4.2.1@sha256:345f0895ca528fcf759b2196a2606a667a0e74fb2f5e2149f1322de996b6b6cd
 # Specifically added digest tag for strict reproducibility
 
 # system libraries of general use
